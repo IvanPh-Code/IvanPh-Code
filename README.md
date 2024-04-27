@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋 mi nombre es Ivan / IvanPh-Code 🖥️🗿 </h1> 
-### Freelance full-stack & information and communications technology engineer 
 <br>
 
 <h2>Sobre mi 😃</h2>
@@ -8,7 +7,7 @@
 <p align="left">
 🎓 INGENIERO EN TECNOLOGIAS DE LA INFORMACION Y COMUNICACIONES
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software
+💻 Freelance full-stack & information and communications technology engineer 
 
 <!--📫 Contacto: **hayatogenki76@gmail.com**-->
 <!--Intro end-->
@@ -16,21 +15,24 @@
 <br>
 
 ## Tecnologías:
-</br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 </br>
+
+Y alguna más...
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,css,html,js,nodejs,mysql,sqlite,git,github,docker,vscode,bash,linux,Bootstrap,ai,ps&perline=12" />
   </a>
 </p>
 <br>
-Y alguna más...
+
 
 <br>
 <h2>GitHub :octocat:</h2>
