@@ -7,7 +7,7 @@
 <p align="left">
 🎓 INGENIERO EN TECNOLOGIAS DE LA INFORMACION Y COMUNICACIONES
 
-💻 Freelance full-stack & information and communications technology engineer 
+💻 Freelance full-stack
 
 <!--📫 Contacto: **hayatogenki76@gmail.com**-->
 <!--Intro end-->
@@ -28,7 +28,7 @@ Y alguna más...
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,css,html,js,nodejs,mysql,sqlite,git,github,docker,vscode,bash,linux,Bootstrap,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=php,css,html,js,nodejs,mysql,sqlite,git,github,docker,vscode,bash,linux,Bootstrap=12" />
   </a>
 </p>
 <br>
