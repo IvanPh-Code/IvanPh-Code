@@ -7,7 +7,7 @@
 <p align="left">
 🎓 INGENIERO EN TECNOLOGIAS DE LA INFORMACION Y COMUNICACIONES
 
-💻 Desarrollador full-stack
+💻 Desarrollador Backend
 
 <!--📫 Contacto: **hayatogenki76@gmail.com**-->
 <!--Intro end-->
